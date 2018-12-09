@@ -114,7 +114,7 @@ class SelectNode extends React.Component<Props, State> {
             <Collapse.Panel header="Need help? Click here" key="help">
               <p>
                 In order to run Joule, you must run your own LND node (Other
-                node types coming soon.) You have a few options fow how you can
+                node types coming soon.) You have a few options for how you can
                 do that:
               </p>
               <ul>
